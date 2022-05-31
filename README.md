@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris White
 - 👀 I’m interested in F1, cars, mechanical engineering, and learning programming!
-- 🌱 HTML, CSS, And JAvaScript
+- 🌱 HTML, CSS, And JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
